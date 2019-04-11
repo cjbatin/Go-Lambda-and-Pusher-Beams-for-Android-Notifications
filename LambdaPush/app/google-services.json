@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "11427455994",
+    "firebase_url": "https://aws-lambda-pusher.firebaseio.com",
+    "project_id": "aws-lambda-pusher",
+    "storage_bucket": "aws-lambda-pusher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11427455994:android:b8986372789aad99",
+        "android_client_info": {
+          "package_name": "uk.co.cjapps.lambdapush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11427455994-jaqj0o9l3um9d7ra4f4sin8q80gajlul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp8o2sixd3rK40Mu_WzQl9fpUmnQH3Suk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11427455994-jaqj0o9l3um9d7ra4f4sin8q80gajlul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
